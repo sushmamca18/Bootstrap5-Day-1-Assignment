@@ -1,0 +1,41 @@
+.my-container {
+    background-color: lightgray;
+    height: 100vh;
+}
+
+.block {
+    height: auto;
+    min-height: 30px;
+    background-color: red;
+    height: 150px;
+}
+
+.block-1 {
+    background-color: chartreuse;
+}
+
+.block-even {
+    background-color: rgba(19, 206, 231, 0.623);
+}
+
+.block-odd {
+    background-color: rgb(216 151 214 / 74%)
+}
+
+.block-3 {
+    background-color: #ff7f508c;
+}
+
+.row {
+    margin: 0%;
+}
+
+.row-1 {
+    /* height: 400px; */
+    background-color: bisque;
+}
+
+.row-2 {
+    background-color: rgba(19, 231, 100, 0.788);
+    background-color: bisque;
+}
