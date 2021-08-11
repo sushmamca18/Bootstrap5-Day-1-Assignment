@@ -1,0 +1,39 @@
+.my-container {
+    background-color: #19dcca42;
+    height: 100vh;
+}
+
+.card {
+    padding: 10px;
+}
+
+.card img {
+    height: 160px;
+}
+
+.card-text {
+    display: none;
+}
+
+.row {
+    margin: 0%;
+}
+
+.row-1 {
+    /* height: 400px; */
+    background-color: bisque;
+}
+
+.row-2 {
+    background-color: rgba(19, 231, 100, 0.788);
+    background-color: bisque;
+}
+
+.row-3 {
+    background-color: bisque;
+}
+
+.card-title {
+    text-transform: capitalize;
+    font-size: 1.1rem;
+}
